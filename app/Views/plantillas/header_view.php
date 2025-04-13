@@ -12,7 +12,7 @@
 <body>
     <header>
         <a href = "#"  class="logo">
-            <img src="logo.png" alt="logo de la compañia">
+            <img src="assets\img\logo.png" class="img-thumbnail" width="80" height="80" alt="logo de la compañia">
             <h2 class="nombre-empresa">KEYS CODI GAMES</h2> 
         </a>
         <div> <ul class="nav justify-content-center">
@@ -38,5 +38,4 @@
             </ul>
         </div>
     </header>
-</body>
-</html>
+
