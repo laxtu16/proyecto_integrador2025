@@ -1,0 +1,72 @@
+footer {
+    background-color: #fa800d; /* Un gris claro de fondo */
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #ffffff; /* Línea superior sutil */
+}
+
+.contacto-info, .formulario-contacto {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button[type="submit"] {
+    background-color: #007bff; /* Azul primario de Bootstrap */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.copyright {
+    font-size: 0.8em;
+    color: #000000; /* Gris secundario */
+    margin-top: 20px;
+}
+
+/* Estilos para pantallas más grandes para mostrar la info y el form uno al lado del otro */
+@media (min-width: 768px) {
+    footer {
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-start;
+        text-align: left;
+    }
+
+    .contacto-info, .formulario-contacto {
+        width: 45%;
+        margin-bottom: 0;
+    }
+
+    .copyright {
+        text-align: center;
+        width: 100%;
+        margin-top: 20px;
+    }
+}
