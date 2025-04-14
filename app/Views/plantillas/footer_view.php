@@ -32,14 +32,20 @@
             </div>
             <div class="form-group">
                 <label for="mensaje">Mensaje:</label>
-                <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+                <textarea id="mensaje" name="mensaje" rows="2" required></textarea>
             </div>
             <button type="submit">Enviar Mensaje</button>
         </form>
     </div>
 
     
+
+    
   </div>
+  <div class="col">
+      <h3>Centro de ayuda</h3>
+      <p>Preguntas frecuentes</p>
+    </div>
   <div class="copyright", >
           <p>&copy; <?php echo date("Y"); ?> [Nombre de la Empresa]. Todos los derechos reservados.</p>
         </div>
