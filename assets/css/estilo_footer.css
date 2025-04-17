@@ -1,8 +1,8 @@
 footer {
-    background-color: #fa800d; /* Un gris claro de fondo */
+    background-color: #db15e9; /* Un gris claro de fondo */
     padding: 20px;
     text-align: center;
-    border-top: 1px solid #ffffff; /* Línea superior sutil */
+    border-top: 1px solid #801888; /* Línea superior sutil */
 }
 
 .contacto-info, .formulario-contacto {
@@ -24,6 +24,7 @@ input[type="text"],
 input[type="email"],
 input[type="tel"],
 textarea {
+    display: block;
     width: 100%;
     padding: 8px;
     border: 1px solid #ced4da;
@@ -48,25 +49,4 @@ button[type="submit"]:hover {
     font-size: 0.8em;
     color: #000000; /* Gris secundario */
     margin-top: 20px;
-}
-
-/* Estilos para pantallas más grandes para mostrar la info y el form uno al lado del otro */
-@media (min-width: 768px) {
-    footer {
-        display: flex;
-        justify-content: space-around;
-        align-items: flex-start;
-        text-align: left;
-    }
-
-    .contacto-info, .formulario-contacto {
-        width: 45%;
-        margin-bottom: 0;
-    }
-
-    .copyright {
-        text-align: center;
-        width: 100%;
-        margin-top: 20px;
-    }
 }

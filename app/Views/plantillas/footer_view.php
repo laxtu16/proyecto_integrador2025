@@ -8,7 +8,7 @@
           <p><strong>Titular de la Empresa:</strong> Azcona Brian Alexander & Aquino Ponce Leonardo Exequiel</p>
           <p><strong>Razón Social:</strong> CodiGames S.A</p>
           <p><strong>Domicilio Legal:</strong> Corrientes Capital, Lamadrid 1234</p>
-          <p><strong>Teléfonos:</strong> 3795665253, 0800 0025 5158</p>
+          <p><strong>Teléfono:</strong> 0800 0025 5158</p>
           <p><strong>Email:</strong> CodiGames@gmail.com</p>
         
       </div>
@@ -47,7 +47,7 @@
       <p>Preguntas frecuentes</p>
     </div>
   <div class="copyright", >
-          <p>&copy; <?php echo date("Y"); ?> [Nombre de la Empresa]. Todos los derechos reservados.</p>
+          <p>&copy; <?php echo date("Y"); ?> CodiGames S.A. Todos los derechos reservados.</p>
         </div>
 </footer>
 
