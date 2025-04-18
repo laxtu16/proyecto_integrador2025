@@ -5,7 +5,7 @@ body {
 
 header {
     background-color: black;
-    border-bottom: 3px solid orange;
+    border-bottom: 3px solid #000000;;
     padding: 10px 0;
 }
 
@@ -58,26 +58,14 @@ form input {
     display: flex;
     align-items: center;
     gap: 15px;
+   
 }
 
-.carro-de-compras i,
-.usuario i {
+.favoritos i,.carro-de-compras i,
+.usuario i{
     font-size: 24px;
-    color: white;
+    color: white ;
 }
-
-
-
-.fa-facebook:hover,
-.fa-instagram:hover,
-.fa-whatsapp:hover,
-.fa-youtube:hover,
-.fa-twitter:hover,
-.fa-linkedin:hover {
-    color: black;
-    font-size: 2.5rem;
-}
-
 
 @media (max-width: 700px) {
     .container {
@@ -105,8 +93,9 @@ form input {
         margin-top: 10px;
     }
 
-    .carro-de-compras i,
+    .favoritos i,.carro-de-compras i,
     .usuario i {
         font-size: 28px;
+    
     }
 }

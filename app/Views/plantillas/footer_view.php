@@ -1,3 +1,4 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> 
 <footer>
  
     <div class="container text-center">
@@ -37,8 +38,29 @@
             <button type="submit">Enviar Mensaje</button>
         </form>
     </div>
-
-    
+    <div>
+            <ul class="nav justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fa-brands fa-facebook fa-2xl"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fa-brands fa-instagram fa-2xl"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fa-brands fa-whatsapp fa-2xl"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fa-brands fa-youtube fa-2xl"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fa-brands fa-twitter fa-2xl"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
+                </li>
+            </ul>
+        </div>
+      
 
     
   </div>
@@ -50,6 +72,8 @@
           <p>&copy; <?php echo date("Y"); ?> CodiGames S.A. Todos los derechos reservados.</p>
         </div>
 </footer>
+
+   
 
 
  

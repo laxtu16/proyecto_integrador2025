@@ -29,40 +29,17 @@
             <form class="d-flex flex-grow-1 justify-content-center my-2" role="search">
                 <input class="form-control w-100" style="max-width: 400px;" type="search" placeholder="Buscar juegos..." aria-label="Buscar">
             </form>
-
+            
            
-            <div class="acciones d-flex align-items-center gap-3">
+            <div class="acciones d-flex align-items-center gap-3"> 
+                <a class="favoritos" href="#"><i class=" fas fa-heart"></i></a> 
                 <a class="carro-de-compras" href="#"><i class="fas fa-cart-shopping"></i></a>        
-                <a class="usuario" href="#"><i class="fas fa-circle-user"></i></a>     
+                <a class="usuario" href="#"><i class="fas fa-circle-user"></i></a>   
+                    
             </div>
 
         </div>
 
-        
-        <!--
-        <div>
-            <ul class="nav justify-content-center">
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-facebook fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-instagram fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-whatsapp fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-youtube"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-linkedin"></i></a>
-                </li>
-            </ul>
-        </div>
-        -->
     </header>
 
 </body>

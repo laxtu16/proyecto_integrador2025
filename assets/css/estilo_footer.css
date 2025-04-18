@@ -41,6 +41,16 @@ button[type="submit"] {
     cursor: pointer;
 }
 
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-whatsapp:hover,
+.fa-youtube:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover {
+    color: black;
+    font-size: 2.5rem;
+}
+
 button[type="submit"]:hover {
     background-color: #0056b3;
 }
@@ -50,3 +60,5 @@ button[type="submit"]:hover {
     color: #000000; /* Gris secundario */
     margin-top: 20px;
 }
+   
+
