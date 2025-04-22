@@ -1,57 +1,64 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <footer>
- 
-    <div class="container text-center">
-  <div class="row align-items-start">
-    <div class="col">
-      <div class="contacto-info">
-          <h3>Información de Contacto</h3>
-          <p><strong>Titular de la Empresa:</strong> Azcona Brian Alexander & Aquino Ponce Leonardo Exequiel</p>
-          <p><strong>Razón Social:</strong> CodiGames S.A</p>
-          <p><strong>Domicilio Legal:</strong> Corrientes Capital, Lamadrid 1234</p>
-          <p><strong>Teléfono:</strong> 0800 0025 5158</p>
-          <p><strong>Email:</strong> CodiGames@gmail.com</p>
-        
-      </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h6 class="text-white mb-3">Secciones Principales</h6>
+                <ul class="list-unstyled">
+                    <li><a href="#Home" class="nav-link-footer">Home</a></li>
+                    <li><a href="#Comercialización" class="nav-link-footer">Comercialización</a></li>
+                    
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h6 class="text-white mb-3">Información Útil</h6>
+                <ul class="list-unstyled">
+                    <li><a href="#sobre-nosotros" class="nav-link-footer">Sobre Nosotros</a></li>
+                    <li><a href="#preguntas-frecuentes" class="nav-link-footer">Preguntas Frecuentes</a></li>
+                    <li><a href="#terminos-condiciones" class="nav-link-footer">Términos y Condiciones</a></li>
+                    
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h6 class="text-white mb-3">Contacto y Soporte</h6>
+                <ul class="list-unstyled">
+                    <li><a href="#contacto" class="nav-link-footer"><i class="fas fa-envelope me-2"></i> Contáctanos</a></li>
+                    
+                    <li><a href="#ubicacion" class="nav-link-footer"><i class="fas fa-map-marker-alt me-2"></i> Ubicación</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div>
+                <ul class="nav justify-content-center">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa-brands fa-facebook fa-2xl"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa-brands fa-instagram fa-2xl"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa-brands fa-whatsapp fa-2xl"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa-brands fa-youtube fa-2xl"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa-brands fa-twitter fa-2xl"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
+                    </li>
+                </ul>
+            </div>
+            <hr class="my-4" style="border-top: 1px solid rgba(255, 255, 255, 0.1);">
+            <div class="copyright text-center">
+                <p class="text-white mb-0">&copy; <?php echo date("Y"); ?> CodiGames S.A. Todos los derechos reservados.</p>
+            </div>
+        </div>
     </div>
-
-    
-    <div>
-            <ul class="nav justify-content-center">
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-facebook fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-instagram fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-whatsapp fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-youtube fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-twitter fa-2xl"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
-                </li>
-            </ul>
-        </div>
-      
-
-    
-  
-  <div class="copyright", >
-          <p>&copy; <?php echo date("Y"); ?> CodiGames S.A. Todos los derechos reservados.</p>
-        </div>
 </footer>
 
-   
-
-
- 
 <script src="<?php echo base_url('assets/js/bootstrap.bundle.min.js'); ?>"></script>
 </body>
-
 </html>
