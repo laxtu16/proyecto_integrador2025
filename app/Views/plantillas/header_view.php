@@ -11,6 +11,7 @@
     
     <link rel="stylesheet" href="assets/css/estilo_footer.css">
     <link rel="stylesheet" href="assets/css/estilo_header.css"> 
+    <link rel="stylesheet" href="assets/css/estilo_nav.css"> 
 </head>
 <body>
 
