@@ -12,7 +12,7 @@
             <a class="nav-link" href="<?php echo base_url('comercializacion'); ?>">Comercialización</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contacto</a>
+            <a class="nav-link" href="<?php echo base_url('contacto'); ?>">Contacto</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?php echo base_url('Ayuda'); ?>">Ayuda</a>

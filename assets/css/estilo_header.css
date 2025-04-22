@@ -47,21 +47,6 @@ header {
 }
 
 
-form {
-    flex: 1;
-    min-width: 200px;
-    display: flex;
-    justify-content: center;
-}
-
-form input {
-    width: 100%;
-    max-width: 400px;
-    padding: 8px 12px;
-    border-radius: 8px;
-    border: none;
-}
-
 .acciones {
     display: flex;
     align-items: center;

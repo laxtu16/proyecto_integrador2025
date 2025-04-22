@@ -15,29 +15,7 @@
       </div>
     </div>
 
-    <div class="col">
-      <div class="formulario-contacto">
-        <h3>Comunícate con Nosotros</h3>
-        <form action="/enviar-formulario" method="POST">
-            <div class="form-group">
-                <label for="nombre">Nombre:</label>
-                <input type="text" id="nombre" name="nombre" required>
-            </div>
-            <div class="form-group">
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-            </div>
-            <div class="form-group">
-                <label for="telefono">Teléfono:</label>
-                <input type="tel" id="telefono" name="telefono">
-            </div>
-            <div class="form-group">
-                <label for="mensaje">Mensaje:</label>
-                <textarea id="mensaje" name="mensaje" rows="2" required></textarea>
-            </div>
-            <button type="submit">Enviar Mensaje</button>
-        </form>
-    </div>
+    
     <div>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
@@ -63,11 +41,7 @@
       
 
     
-  </div>
-  <div class="col">
-      <h3>Centro de ayuda</h3>
-      <p>Preguntas frecuentes</p>
-    </div>
+  
   <div class="copyright", >
           <p>&copy; <?php echo date("Y"); ?> CodiGames S.A. Todos los derechos reservados.</p>
         </div>
