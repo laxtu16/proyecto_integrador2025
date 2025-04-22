@@ -10,3 +10,5 @@ $routes->get('/', 'Home::index');
 $routes->get('nosotros', 'Home::quienesSomos');
 
 $routes->get('contacto', 'Home::contactos');
+
+$routes->get('comercializacion', 'Home::comercializacion');
