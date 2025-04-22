@@ -33,13 +33,13 @@ header {
     background-color: black;
 }
 
+
 @font-face {
     font-family: 'Oblivion';
-    src: url('fonts/Oblivion.ttf') format('truetype');
+    src: url('../fonts/Oblivion.ttf') format('truetype');
 }
 
-
-.nombre-empresa {
+.nombre-empresa1 {
     margin: 0;
     font-size: 2rem;
     color: white;

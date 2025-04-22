@@ -9,7 +9,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
-
+    <link rel="stylesheet" href="assets/css/estilo_contacto.css">
     
     <link rel="stylesheet" href="assets/css/estilo_footer.css">
     <link rel="stylesheet" href="assets/css/estilo_header.css"> 
@@ -25,7 +25,7 @@
                 <a href="<?php echo base_url('/'); ?>">
                     <img src="assets/img/logo.png" class="img-thumbnail" width="80" height="80" alt="logo de la compañia">
                 </a>
-                <h2 class="nombre-empresa">CODI GAMES</h2> 
+                <h2 class="nombre-empresa1">CODI GAMES</h2> 
             </div>
 
            

@@ -45,6 +45,6 @@ nav.navbar {
 
 @media (max-width: 768px) {
     .navbar-nav {
-        text-align:
+        text-align:center;
     }
 }
