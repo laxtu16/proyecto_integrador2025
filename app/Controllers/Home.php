@@ -19,4 +19,9 @@ class Home extends BaseController
         $data['titulo'] = "Comercializacion";
         return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("plantillas/footer_view.php");
     }
+
+    public function terminosYcondiciones(): string {
+        $data['titulo'] = "terminos de Uso";
+        return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("contenido/terminosyusos.php").view("plantillas/footer_view.php");
+    }
 }

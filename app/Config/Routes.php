@@ -12,3 +12,7 @@ $routes->get('nosotros', 'Home::quienesSomos');
 $routes->get('contacto', 'Home::contactos');
 
 $routes->get('comercializacion', 'Home::comercializacion');
+
+$routes->get('Ayuda', 'Home::terminosYcondiciones');
+
+

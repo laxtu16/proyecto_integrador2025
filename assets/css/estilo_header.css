@@ -26,18 +26,26 @@ header {
 }
 
 .logo img {
-    height: 50px;
+    height: 60px;
     margin-right: 10px;
     border: none;
     border-radius: 80%;
     background-color: black;
 }
 
+@font-face {
+    font-family: 'Oblivion';
+    src: url('fonts/Oblivion.ttf') format('truetype');
+}
+
+
 .nombre-empresa {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: white;
+    font-family: 'Oblivion', sans-serif;
 }
+
 
 form {
     flex: 1;
