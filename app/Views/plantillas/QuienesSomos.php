@@ -1,11 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html> 
+<html lang="en"> 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quienes Somos</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/estilo_QuienesSomos.css">
 </head>
 <body>
     <div class="container py-5">
@@ -35,6 +36,46 @@
                 </div>
             </div>
         </div>
+
+        <!-- NUEVA SECCIÓN AGREGADA -->
+        <div class="row text-center mt-5">
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card p-4">
+                    <i class="fas fa-users icon"></i>
+                    <h4>Para Jugadores</h4>
+                    <p>Una plataforma única para todas sus necesidades de juegos y entretenimiento con las mejores ofertas en más de 80 000 productos, pagos seguros, reembolsos rápidos y atención al cliente lista para ayudar.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card p-4">
+                    <i class="fas fa-desktop icon"></i>
+                    <h4>Para Editores</h4>
+                    <p>Una plataforma de distribución alternativa consolidada y de confianza que abre nuevos mercados y fuentes de ingresos, y permite reducir los costes operativos.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card p-4">
+                    <i class="fas fa-store icon"></i>
+                    <h4>Para Vendedores</h4>
+                    <p>Un terreno de juego justo para presentar su oferta a los jugadores, competir con otros vendedores verificados y vender sus existencias utilizando nuestras sencillas herramientas y la integración automatizada de API.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 mb-4">
+                <div class="card p-4">
+                    <i class="fas fa-link icon"></i>
+                    <h4>Afiliados y Socios</h4>
+                    <p>Un programa de afiliados con ganancias ilimitadas, sin retiros mínimos, cookies de seguimiento de 30 días, herramientas de optimización y asistencia práctica.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 mb-4">
+                <div class="card p-4">
+                    <i class="fas fa-briefcase icon"></i>
+                    <h4>Futuros Miembros del Equipo</h4>
+                    <p>Oportunidades de carrera flexibles in situ, híbridas y remotas para impulsar tu crecimiento personal y profesional.</p>
+                </div>
+            </div>
+        </div>
+        <!-- FIN DE NUEVA SECCIÓN -->
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

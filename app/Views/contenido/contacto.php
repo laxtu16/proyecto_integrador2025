@@ -1,3 +1,7 @@
+<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+    <div class="col">
 <div class="formulario-contacto-soporte">
     <h3>Comunícate con Soporte</h3>
     <p>Por favor, completa el siguiente formulario y nuestro equipo de soporte se pondrá en contacto contigo a la brevedad.</p>
@@ -45,4 +49,13 @@
         </div>
         <button type="submit">Enviar Mensaje a Soporte</button>
     </form>
+</div>
+
+</div>
+    </div>
+    <div class="col">
+      <h1>
+        Contactate con nosotros</h1>
+    </div>
+  </div>
 </div>

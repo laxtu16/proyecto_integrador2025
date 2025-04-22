@@ -22,7 +22,7 @@
         <div class="container d-flex flex-wrap align-items-center justify-content-between gap-3"> 
 
             <div class="logo d-flex align-items-center gap-2">
-                <a href="#">
+                <a href="<?php echo base_url('/'); ?>">
                     <img src="assets/img/logo.png" class="img-thumbnail" width="80" height="80" alt="logo de la compañia">
                 </a>
                 <h2 class="nombre-empresa">CODI GAMES</h2> 
