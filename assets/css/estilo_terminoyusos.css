@@ -39,22 +39,7 @@ body {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Navegación */
-.nav-link {
-    color: white;
-    background-color: #7a42d1;
-    margin: 5px 0;
-    border-radius: 4px;
-    padding: 6px 10px;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-}
 
-.nav-link:hover,
-.nav-link.active {
-    background-color: #5b2e9d;
-    color: #fff;
-}
 
 /* Responsive */
 @media (max-width: 768px) {

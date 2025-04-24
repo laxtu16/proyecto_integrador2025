@@ -8,35 +8,68 @@
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script> <!-- Para los íconos -->
 </head>
 <body>
+
+<h2 class="info mb-4 text-center">Información de Comercialización</h2>
+<div class="container my-5">
     
-     <div class="container my-5">
-        <h2 class="info mb-4">Información de Comercialización</h2>
-        
-        <div class="row">
-            <div class="col-md-6 mb-4">
-                <h4>Tipos de Entregas</h4>
-                <p>Ofrecemos entregas digitales inmediatas a través del correo electrónico o mediante descarga directa desde nuestra plataforma.</p>
+    <div class="container text-center">
+        <div class="row g-2">
+            <div class="col-6">
+                <div class="p-3">
+                    <h4>Tipos de Entregas</h4>
+                    <p>Ofrecemos entregas digitales inmediatas a través del correo electrónico o mediante descarga directa desde nuestra plataforma.</p>
+                </div>
             </div>
-            
-            <div class="col-md-6 mb-4">
-                <h4>Formas de Envío</h4>
-                <p>Los productos físicos se envían por correo nacional e internacional con seguimiento y opciones exprés.</p>
-            </div>
-
-            <div class="col-md-6 mb-4">
-                <h4>Formas de Pago</h4>
-                <p>Aceptamos tarjetas de crédito y débito, transferencias bancarias, pagos a través de Mercado Pago, PayPal y criptomonedas seleccionadas.</p>
-            </div>
-
-            <div class="col-md-6 mb-4">
-                <h4>Información Adicional</h4>
-                <p>Contamos con políticas de devolución claras, garantía en productos seleccionados, y soporte técnico en tiempo real para ayudarte en todo momento.</p>
-            </div>
+        <div class="col-6">
+            <div class="p-3">
+                <img src="assets/img/EnvioDigital.jpg" alt="" width="500" height="200">
         </div>
     </div>
 
+
+
+            <div class="col-6">
+                <div class="p-3">
+                    <img src="assets/img/TiposDeEntrega.png" alt="" width="500" height="200">
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="p-3">
+                    <h4>Formas de Envío</h4>
+                    <p>Los productos físicos se envían por correo nacional e internacional con seguimiento y opciones exprés.</p>
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div class="p-3">
+                    <h4>Formas de Pago</h4>
+                    <p>Aceptamos tarjetas de crédito y débito, transferencias bancarias, pagos a través de Mercado Pago, PayPal y criptomonedas seleccionadas.</p>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="p-3">
+                    <img src="assets/img/FormasDePago.png" alt="" width="500" height="200">
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div class="p-3">
+                    <img src="assets/img/InformacionAdicional.png" alt="" width="500" height="200">
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="p-3">
+                    <h4>Información Adicional</h4>
+                    <p>Contamos con políticas de devolución claras, garantía en productos seleccionados, y soporte técnico en tiempo real para ayudarte en todo momento.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
     <div >
-        <h2> OFRESEMOS AL PUBLICO!! </h2>
+        <h2 class="row text center"> OFRESEMOS AL PUBLICO!! </h2>
     </div>
 
     <div class="row text-center">
