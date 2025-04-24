@@ -34,16 +34,13 @@ header {
 }
 
 
-@font-face {
-    font-family: 'Oblivion';
-    src: url('../fonts/Oblivion.ttf') format('truetype');
-}
+
 
 .nombre-empresa1 {
     margin: 0;
-    font-size: 2rem;
+    font-size: 3rem;
     color: white;
-    font-family: 'Oblivion', sans-serif;
+    
 }
 
 
@@ -72,7 +69,8 @@ header {
     }
 
     .nombre-empresa {
-        font-size: 1.4rem;
+        font-size: 3rem;
+       
     }
 
     form {

@@ -1,13 +1,64 @@
+/* Título principal */
 .section-title {
-    font-size: 36px;
+    font-size: 32px;
     font-weight: bold;
     text-align: center;
-    margin-bottom: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px 0;
+    color: #000000;
+    font-family: Georgia, serif;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
+
+
 .description {
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 30px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+}
+
+
+body {
+    background-color: blueviolet;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding-bottom: 60px;
+}
+
+/* Contenedor de contenido con scroll */
+.scrollspy-example-2 {
+    max-height: 70vh;
+    overflow-y: auto;
+    padding: 15px;
+    background-color: #ffffffcc;
+    color: #222;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Navegación */
+.nav-link {
+    color: white;
+    background-color: #7a42d1;
+    margin: 5px 0;
+    border-radius: 4px;
+    padding: 6px 10px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    background-color: #5b2e9d;
+    color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .scrollspy-example-2 {
+        max-height: none;
+    }
 }

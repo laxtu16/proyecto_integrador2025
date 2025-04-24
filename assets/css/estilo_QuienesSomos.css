@@ -1,5 +1,5 @@
         body {
-             background-color:#9b58a8;
+             background-color: blueviolet;
             }
 
         .section-title {
@@ -15,13 +15,5 @@
             margin-bottom: 30px;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
-        .card {
-            border: none;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .icon {
-            font-size: 80px;
-            color: #0079fb;
-            margin-bottom: 20px;
-        }
+      
+          

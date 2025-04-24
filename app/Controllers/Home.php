@@ -22,7 +22,7 @@ class Home extends BaseController
 
     public function comercializacion(): string {
         $data['titulo'] = "Comercializacion";
-        return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("plantillas/footer_view.php");
+        return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("contenido\comercio.php").view("plantillas/footer_view.php");
     }
 
     public function terminosYcondiciones(): string {

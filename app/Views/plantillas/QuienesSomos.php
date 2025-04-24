@@ -9,74 +9,56 @@
     <link rel="stylesheet" href="assets/css/estilo_QuienesSomos.css">
 </head>
 <body>
-    <div class="container py-5">
-        <h1 class="section-title">¿Quiénes Somos?</h1>
-        <p class="description">Somos una tienda en línea especializada en ofrecer los mejores juegos y próximamente claves de aplicaciones. Nuestro objetivo es brindarte una experiencia de compra fácil y segura, siempre con productos de calidad.</p>
-
-        <div class="row text-center">
-            <div class="col-md-4">
-                <div class="card p-4">
-                    <i class="fas fa-gamepad icon"></i>
-                    <h4>Juegos de Calidad</h4>
-                    <p>Ofrecemos una amplia variedad de juegos para todas las plataformas, desde los más populares hasta los más nuevos.</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card p-4">
-                    <i class="fas fa-key icon"></i>
-                    <h4>Claves de Aplicaciones</h4>
-                    <p>Próximamente ofreceremos claves para aplicaciones, permitiéndote acceder a herramientas y servicios a precios competitivos.</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card p-4">
-                    <i class="fas fa-truck icon"></i>
-                    <h4>Envíos Rápidos</h4>
-                    <p>Nos aseguramos de que tu compra llegue lo más rápido posible, con opciones de envío seguras y confiables.</p>
-                </div>
-            </div>
-        </div>
-
-        
-        <div class="row text-center mt-5">
-            <div class="col-md-6 col-lg-4 mb-4">
-                <div class="card p-4">
-                    <i class="fas fa-users icon"></i>
-                    <h4>Para Jugadores</h4>
-                    <p>Una plataforma única para todas sus necesidades de juegos y entretenimiento con las mejores ofertas en más de 80 000 productos, pagos seguros, reembolsos rápidos y atención al cliente lista para ayudar.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mb-4">
-                <div class="card p-4">
-                    <i class="fas fa-desktop icon"></i>
-                    <h4>Para Editores</h4>
-                    <p>Una plataforma de distribución alternativa consolidada y de confianza que abre nuevos mercados y fuentes de ingresos, y permite reducir los costes operativos.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mb-4">
-                <div class="card p-4">
-                    <i class="fas fa-store icon"></i>
-                    <h4>Para Vendedores</h4>
-                    <p>Un terreno de juego justo para presentar su oferta a los jugadores, competir con otros vendedores verificados y vender sus existencias utilizando nuestras sencillas herramientas y la integración automatizada de API.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 mb-4">
-                <div class="card p-4">
-                    <i class="fas fa-link icon"></i>
-                    <h4>Afiliados y Socios</h4>
-                    <p>Un programa de afiliados con ganancias ilimitadas, sin retiros mínimos, cookies de seguimiento de 30 días, herramientas de optimización y asistencia práctica.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 mb-4">
-                <div class="card p-4">
-                    <i class="fas fa-briefcase icon"></i>
-                    <h4>Futuros Miembros del Equipo</h4>
-                    <p>Oportunidades de carrera flexibles in situ, híbridas y remotas para impulsar tu crecimiento personal y profesional.</p>
-                </div>
-            </div>
-        </div>
-       
+<div class="container py-5">
+    <div class = "col">
+    <h1 class="section-title">¿Quiénes Somos?</h1>
+    <p class="description">
+        Somos una tienda en línea especializada en ofrecer los mejores juegos digitales del mercado, y próximamente también claves de aplicaciones. Nuestro objetivo es brindarte una experiencia de compra fácil, rápida y segura, siempre con productos de calidad y un soporte personalizado.
+        <br><br>
+        Esta aventura comenzó con dos amigos nacidos en Corrientes Capital, apasionados por la tecnología y los videojuegos desde muy chicos. Pasaban horas en cibers, intercambiaban cartuchos y soñaban con tener algún día su propia tienda de videojuegos. Con esfuerzo, estudio y mucha perseverancia, decidieron transformar esa pasión en un proyecto real.
+        <br><br>
+        Con el tiempo, notaron que conseguir juegos originales o claves de software confiables era una necesidad cada vez más fuerte en la comunidad gamer. Fue así como nació esta tienda, pensada no solo como un comercio, sino como un espacio donde cada cliente pueda sentirse seguro, valorado y parte de una comunidad que crece día a día.
+        <br><br>
+        Aunque empezamos desde una habitación en Corrientes, hoy trabajamos para llegar a todo el país y más allá, manteniendo siempre nuestra esencia: cercanía, honestidad y amor por lo que hacemos. Cada compra que hacés con nosotros nos ayuda a seguir cumpliendo el sueño que empezó en esa ciudad cálida y soñadora del Litoral argentino.
+        <br><br>
+        ¡Gracias por confiar en nosotros y ser parte de esta historia!
+    </p>
     </div>
+   
+</div>
+<div class="container py-5">
+  <div class="row">
+    <div class="col-md-6">
+      <h2 class="titulo-seccion">Nuestra historia</h2>
+      <p>
+        Hace años, los fundadores de <strong>Codi Games S.A.</strong> iniciaron un apasionado camino para acercar los videojuegos y la tecnología a los hogares de todos los argentinos, empezando desde Corrientes Capital. <br><br>
+        Así empezaron escuchando a los jugadores, compartiendo experiencias y recibiendo cada sugerencia con alegría y entusiasmo. Hoy, seguimos acompañando a cada usuario en su aventura digital.
+      </p>
+      <p>
+        Desde entonces, somos un puente hacia los sueños. Nuestra creencia principal es que “cada gamer tiene un mundo que desea explorar”, y nuestro mayor deseo es ayudarlos a hacerlo realidad.
+      </p>
+      <p>
+        Lo sabemos porque es parte de nuestra esencia: somos gamers ayudando a gamers.
+      </p>
+    </div>
+               
+    <div class="col-md-1 d-none d-md-block">
+      <div class="divider"></div>
+    </div>
+    <div class="col-md-5">
+      <h2 class="titulo-seccion">Nuestra visión</h2>
+      <p>
+        Buscamos la mejora continua para convertirnos en la tienda digital de juegos y claves más confiable y cercana de la región.
+      </p>
+      <ul>
+        <li>Conocer profundamente a nuestros clientes: qué juegan, qué les apasiona, y cómo podemos ayudarlos.</li>
+        <li>Brindar asesoramiento claro, soporte rápido y productos originales.</li>
+        <li>Construir una experiencia de compra única, intuitiva y segura desde el primer clic hasta la entrega del producto.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>

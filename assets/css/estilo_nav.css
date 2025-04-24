@@ -14,7 +14,7 @@ nav.navbar {
 }
 
 .navbar-nav .nav-link:hover {
-    color: #db15e9;
+    color: blueviolet;
     transform: scale(1.05);
 }
 
@@ -38,7 +38,7 @@ nav.navbar {
 }
 
 .dropdown-menu .dropdown-item:hover {
-    background-color: #db15e9;
+    background-color: blueviolet;
     color: white;
 }
 
