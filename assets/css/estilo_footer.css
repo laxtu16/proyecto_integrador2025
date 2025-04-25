@@ -3,6 +3,9 @@ footer {
     padding: 20px;
     text-align: center;
     border-top: 1px solid #050005; /* Línea superior sutil */
+    width: 100%; /* Asegura que el footer ocupe todo el ancho */
+    margin: 0; /* Elimina márgenes innecesarios */
+   
 }
 
 .contacto-info, .formulario-contacto {

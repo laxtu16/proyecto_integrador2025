@@ -7,7 +7,7 @@ class Home extends BaseController
     public function index(): string
     {
         $data['titulo'] = "Inicio";
-        return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("plantillas/footer_view.php");
+        return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("Views/contenido/home_view.php").view("plantillas/footer_view.php");
     }
 
     public function quienesSomos(): string {

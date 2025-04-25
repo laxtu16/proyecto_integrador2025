@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="assets/css/estilo_footer.css">
     <link rel="stylesheet" href="assets/css/estilo_header.css"> 
     <link rel="stylesheet" href="assets/css/estilo_nav.css"> 
+    <link rel="stylesheet" href="assets/css/estiloCarrusel.css">
+
 </head>
 <body>
 
