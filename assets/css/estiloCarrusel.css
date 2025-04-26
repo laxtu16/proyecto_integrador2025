@@ -5,20 +5,22 @@
     margin: 0;
     padding: 0;
     display: block;
-  }
-  
-  
-  /* Responsive: tablets */
-  @media (max-width: 768px) {
+}
+
+.carousel-inner {
+    z-index: 1060; /* Asegura que el carrusel esté por encima de los carteles */
+}
+
+/* Responsive: tablets */
+@media (max-width: 768px) {
     .carousel-inner {
-      max-height: 300px;
+        max-height: 300px;
     }
-  }
-  
-  /* Responsive: celulares */
-  @media (max-width: 480px) {
+}
+
+/* Responsive: celulares */
+@media (max-width: 480px) {
     .carousel-inner {
-      max-height: 200px;
+        max-height: 200px;
     }
-  }
-  
+}

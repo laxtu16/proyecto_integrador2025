@@ -17,6 +17,9 @@
     <link rel="stylesheet" href="assets/css/estilo_nav.css">
     <link rel="stylesheet" href="assets/css/estiloCarrusel.css">
     <link rel="stylesheet" href="assets/css/estiloFondoPagina.css">
+    <link rel="stylesheet" href="assets/css/estiloTarjetas.css">
+    <link rel="stylesheet" href="assets/css/estiloLetraHome.css">
+    <link rel="stylesheet" href="assets/css/cartelPromocion.css">
 
 </head>
 

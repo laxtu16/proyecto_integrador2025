@@ -1,0 +1,49 @@
+/* Estilo para el cartel de promoción */
+.promo-card {
+    position: fixed; /* Fijo en la pantalla */
+    top: 20%; /* Se coloca a una altura del 20% desde la parte superior de la pantalla */
+    right: 0; /* Se coloca en el lado derecho */
+    width: 180px; /* Reducimos el ancho del cartel */
+    height: 300px; /* Aumentamos la altura del cartel */
+    background-color: #ff6f61; /* Fondo de color rojo-anaranjado */
+    color: #ffffff; /* Texto blanco */
+    padding: 20px; /* Mantener el padding para espacio interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave para dar profundidad */
+    border-radius: 8px; /* Bordes redondeados */
+    z-index: 1050; /* Asegúrate de que sea menor que el del carrusel */
+}
+
+.promo-card h5 {
+    margin-bottom: 15px;
+}
+
+.promo-card a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.promo-card a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para el cartel de video */
+.video-card {
+    position: fixed; /* Fijo en la pantalla */
+    top: 29%; /* Coloca el cartel más cerca de la parte superior */
+    left: 0; /* Se coloca en el lado izquierdo */
+    width: 250px; /* Misma anchura que el primer cartel */
+    height: 50%; /* Ajustamos la altura para ocupar más del lado izquierdo (80% de la altura de la pantalla) */
+    background-color: #000000; /* Fondo negro */
+    color: #ffffff; /* Texto blanco */
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    border-radius: 8px; /* Bordes redondeados */
+    z-index: 1040; /* Un índice menor para que no se sobreponga al primer cartel */
+}
+
+.video-card iframe {
+    width: 100%; /* El iframe ocupa todo el ancho del cartel */
+    height: 100%; /* El iframe ocupa toda la altura disponible */
+    border-radius: 8px; /* Bordes redondeados para el iframe */
+}
