@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Comercialización</title>
     <link rel="stylesheet" href="assets/css/estilo_comercio.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script> <!-- Para los íconos -->
+   
 </head>
 
 <body>
@@ -75,7 +75,7 @@
 
 
     <div>
-        <h2 class="row text center"> OFRESEMOS AL PUBLICO!! </h2>
+        <h2 class="row text-center "> OFRESEMOS AL PUBLICO!! </h2>
     </div>
 
     <div class="container my-5 d-flex justify-content-center align-items-center">
@@ -135,7 +135,7 @@
 
     </div>
 
-
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 </body>
 

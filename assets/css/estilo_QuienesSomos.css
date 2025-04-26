@@ -1,19 +1,47 @@
-        body {
-             background-color: blueviolet;
-            }
+        
 
         .section-title {
-            font-size: 36px;
+            font-size: 50px;
             font-weight: bold;
             text-align: center;
             margin-bottom: 20px;
             font-family: Georgia, 'Times New Roman', Times, serif;
+            border-radius: 10px;
         }
         .description {
             text-align: center;
-            font-size: 18px;
+            font-size: 20px;
             margin-bottom: 30px;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 10px;
+            background-color: rgba(0, 0, 0, 0.3);
+            color: rgb(255, 255, 255);
+            border-radius: 10px;
         }
       
-          
+        .titulo-seccion{
+            font-weight: bold;
+            text-align: center;
+            border-radius: 10px;
+            
+        }
+
+        .informacion{
+            text-align: center;
+            font-size: 20px;
+            margin-bottom: 30px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 10px;
+            background-color: rgba(0, 0, 0, 0.3);
+            color: rgb(255, 255, 255);
+            border-radius: 10px;   
+        }
+
+        h3.{
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-align: center;
+            font-weight: bold;
+            font-size: 40px;
+        }
+
+       

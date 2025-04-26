@@ -43,8 +43,20 @@ nav.navbar {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 991.98px) {
+    /* El menú se centra y ocupa toda la pantalla */
     .navbar-nav {
-        text-align:center;
+        text-align: center;
+        gap: 15px; /* Un poco menos de separación en móvil */
+    }
+
+    /* Opcional: Que los links se vean más grandes en mobile */
+    .navbar-nav .nav-link {
+        font-size: 18px;
+    }
+
+    /* El dropdown en mobile puede ser más ancho */
+    .navbar-nav .dropdown-menu {
+        width: 100%;
     }
 }
