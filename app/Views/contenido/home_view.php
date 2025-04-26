@@ -248,9 +248,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_634363-MLU54965068165_042023-O.webp" class="card-img-top"
                     alt="Producto 1">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">The Last Of Us Part II</h5>
+                    <h5 class="card-title fw-bold">Wolong</h5>
+                    <p class="card-text">Plataforma XBOX SERIES X</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$40.584,45 ARS</span>
+                        Desde <span class="fw-bold">$65.548,69 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -266,9 +267,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_936154-MLU70014803631_062023-O.webp" class="card-img-top"
                     alt="Producto 2">
                 <div class="card-body d-flex flex-column ">
-                    <h5 class="card-title fw-bold">Mortal Kombat 11</h5>
+                    <h5 class="card-title fw-bold">Gotham Knights</h5>
+                    <p class="card-text">Plataforma XBOX SERIES X</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$3.524,65 ARS</span>
+                        Desde <span class="fw-bold">$61.325,47 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -283,9 +285,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_671614-CBT81808157064_012025-O.webp" class="card-img-top"
                     alt="Producto 3">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">God of War</h5>
+                    <h5 class="card-title fw-bold">Dragon Ball Z KAKAROT</h5>
+                    <p class="card-text">Plataforma XBOX SERIES X</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$23.484,95 ARS</span>
+                        Desde <span class="fw-bold">$59.612,65 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -300,9 +303,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_996123-MLU72542358794_112023-O.webp" class="card-img-top"
                     alt="Producto 4">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">The Elder Scrolls IV Remastered</h5>
+                    <h5 class="card-title fw-bold">BATTLEFIELD 2042</h5>
+                    <p class="card-text">Plataforma XBOX ONE</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$58.654,21 ARS</span>
+                        Desde <span class="fw-bold">$33.963,75 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -317,9 +321,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_897506-MLA74229602645_012024-O.webp" class="card-img-top"
                     alt="Producto 5">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">The Last Of Us Part I</h5>
+                    <h5 class="card-title fw-bold">Forza Horizon 2</h5>
+                    <p class="card-text">Plataforma XBOX ONE</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$45.965,46 ARS</span>
+                        Desde <span class="fw-bold">$28.651,84 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -337,9 +342,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_890748-MLA53332770471_012023-O.webp" class="card-img-top"
                     alt="Producto 6">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">Resident Evil 4 Remake</h5>
+                    <h5 class="card-title fw-bold">Cuphead</h5>
+                    <p class="card-text">Plataforma PS4</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$16.625,45 ARS</span>
+                        Desde <span class="fw-bold">$21.452,65 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -354,9 +360,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_921462-MLA44453027967_122020-O.webp" class="card-img-top"
                     alt="Producto 7">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">The Yakuza Remastered Collection</h5>
+                    <h5 class="card-title fw-bold">Resident Evil 3</h5>
+                    <p class="card-text">Plataforma PS4</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$78.561,26 ARS</span>
+                        Desde <span class="fw-bold">$38.895,47</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -371,9 +378,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_803038-MLA80516624420_112024-O.webp" class="card-img-top"
                     alt="Producto 8">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">Dark Souls Remastered</h5>
+                    <h5 class="card-title fw-bold">Ark Survival Evolved</h5>
+                    <p class="card-text">Plataforma PS4</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$12.854,62 ARS</span>
+                        Desde <span class="fw-bold">$36.457,45 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -388,9 +396,10 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_985659-MLA82538257114_032025-O.webp" lass="card-img-top"
                     alt="Producto 9">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">Jump Force ULTIMATE EDITION</h5>
+                    <h5 class="card-title fw-bold">Assassin's Creed Rogue Remastered</h5>
+                    <p class="card-text">Plataforma PS4</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$24.789,12 ARS</span>
+                        Desde <span class="fw-bold">$32.548,56 ARS</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -405,10 +414,12 @@
                 <img src="https://http2.mlstatic.com/D_NQ_NP_750452-MLA45742674472_042021-O.webp" class="card-img-top"
                     alt="Producto 10">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">FIFA 22</h5>
+                    <h5 class="card-title fw-bold">Assassin's Creed VALHALLA</h5>
+                    <p class="card-text">Plataforma PS4</p>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$26.359,84 ARS</span>
+                        Desde <span class="fw-bold">$41.568,14 ARS</span>
                     </p>
+
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
                         <a href="#" class="btn btn-primary">Comprar</a>
@@ -432,9 +443,9 @@
                 <img src="data:image/png;base64,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"
                     class="card-img-top" alt="Producto 1">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">The Last Of Us Part II</h5>
+                    <h5 class="card-title fw-bold">Netflix</h5>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$40.584,45 ARS</span>
+                        Desde <span class="fw-bold">$10,75 USD</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -449,9 +460,9 @@
             <div class="card">
                 <img src="https://static.eneba.games/05d88e5cc868769e1136.jpg" class="card-img-top" alt="Producto 2">
                 <div class="card-body d-flex flex-column ">
-                    <h5 class="card-title fw-bold">Mortal Kombat 11</h5>
+                    <h5 class="card-title fw-bold">Amazon Premium</h5>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$3.524,65 ARS</span>
+                        Desde <span class="fw-bold">$6,47 USD</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -466,9 +477,9 @@
                 <img src="https://help.steampowered.com/public/shared/images/responsive/steam_share_image.jpg"
                     class="card-img-top" alt="Producto 3">
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title fw-bold">God of War</h5>
+                    <h5 class="card-title fw-bold">Steam</h5>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$23.484,95 ARS</span>
+                        Desde <span class="fw-bold">$5.00 USD</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
@@ -485,7 +496,7 @@
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title fw-bold">Crunchyroll</h5>
                     <p class="card-text">
-                        Desde <span class="fw-bold">$</span>
+                        Desde <span class="fw-bold">$ 7,64 USD</span>
                     </p>
                     <div class="mt-auto d-flex flex-column gap-2">
                         <a href="#" class="btn btn-primary">Agregar al Carrito</a>
