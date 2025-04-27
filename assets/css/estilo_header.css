@@ -38,7 +38,7 @@ header {
 
 
 
-.nombre-empresa1 {
+.nombre-empresa1{
     margin: 0;
     font-size: 3rem;
     color: white;
@@ -71,9 +71,8 @@ header {
         
     }
 
-    .nombre-empresa {
+    .nombre-empresa1{
         font-size: 3rem;
-       
     }
 
     form {

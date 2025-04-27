@@ -22,19 +22,18 @@
       <div class="col-md-4">
         <nav id="navbar-example3" class="h-100 flex-column align-items-stretch pe-4 border-end">
           <nav class="nav nav-pills flex-column">
-            <a class="nav-link" href="#compra">1. Compra</a>
-            <nav class="nav nav-pills flex-column">
-              <a class="nav-link ms-3 my-1" href="#garantia">2. Garantía</a>
-              <a class="nav-link ms-3 my-1" href="#validez-garantia">A. Validez de la garantía</a>
-              <a class="nav-link ms-3 my-1" href="#tiempo-garantia">B. Tiempo de garantía</a>
-              <a class="nav-link ms-3 my-1" href="#cobertura-garantia">C. Cobertura de garantía</a>
-              <a class="nav-link ms-3 my-1" href="#devolucion">D. Devolución</a>
-              <a class="nav-link ms-3 my-1" href="#salvaguarda">E. Salvaguarda de información</a>
-              <a class="nav-link ms-3 my-1" href="#garantia-terceros">F. Garantía solicitada por terceros</a>
-              <a class="nav-link ms-3 my-1" href="#reparacion-reemplazo">G. Reparación o reemplazo</a>
-              <a class="nav-link ms-3 my-1" href="#envio-service">H. Envío/retiro del Service</a>
-              <a class="nav-link ms-3 my-1" href="#fuera-garantia">I. Fuera de garantía</a>
-              <a class="nav-link ms-3 my-1" href="#recepcion-paquetes">J. Recepción de paquetes en mal estado</a>
+            <a class="nav-link" href="#compra"><strong>1. Compra</strong></a>
+            <a class="nav-link ms-3 my-1" href="#garantia"><strong>2. Garantía</strong></a>
+            <a class="nav-link ms-3 my-1" href="#validez-garantia"><strong>A. Validez de la garantía</strong></a>
+            <a class="nav-link ms-3 my-1" href="#tiempo-garantia"><strong>B. Tiempo de garantía</strong></a>
+            <a class="nav-link ms-3 my-1" href="#cobertura-garantia"><strong>C. Cobertura de garantía</strong></a>
+            <a class="nav-link ms-3 my-1" href="#devolucion"><strong>D. Devolución</strong></a>
+            <a class="nav-link ms-3 my-1" href="#salvaguarda"><strong>E. Salvaguarda de información</strong></a>
+            <a class="nav-link ms-3 my-1" href="#garantia-terceros"><strong>F. Garantía solicitada por terceros</strong></a>
+            <a class="nav-link ms-3 my-1" href="#reparacion-reemplazo"><strong>G. Reparación o reemplazo</strong></a>
+            <a class="nav-link ms-3 my-1" href="#envio-service"><strong>H. Envío/retiro del Service</strong></a>
+            <a class="nav-link ms-3 my-1" href="#fuera-garantia"><strong>I. Fuera de garantía</strong></a>
+            <a class="nav-link ms-3 my-1" href="#recepcion-paquetes"><strong>J. Recepción de paquetes en mal estado</strong></a>
             </nav>
           </nav>
         </nav>
