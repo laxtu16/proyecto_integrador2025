@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="assets/css/estiloTarjetas.css">
     <link rel="stylesheet" href="assets/css/estiloLetraHome.css">
     <link rel="stylesheet" href="assets/css/cartelPromocion.css">
+    <link rel="stylesheet" href="assets/css/infoContecto.css">
 </head>
 
 <body>
@@ -28,13 +29,15 @@
         <div class="header-container container d-flex flex-wrap align-items-center justify-content-between gap-3">
             <div class="logo d-flex align-items-center gap-2">
                 <a href="<?php echo base_url('/'); ?>">
-                    <img src="assets/img/logo.png" class="img-thumbnail" width="70" height="70" alt="Logo de la compañía">
+                    <img src="assets/img/logo.png" class="img-thumbnail" width="70" height="70"
+                        alt="Logo de la compañía">
                 </a>
                 <h2 class="nombre-empresa1">CODI GAMES</h2>
             </div>
 
             <form class="d-flex flex-grow-1 justify-content-center my-2" role="search">
-                <input class="form-control w-100" style="max-width: 600px;" type="search" placeholder="Buscar juegos..." aria-label="Buscar">
+                <input class="form-control w-100" style="max-width: 600px;" type="search" placeholder="Buscar juegos..."
+                    aria-label="Buscar">
             </form>
 
             <div class="acciones d-flex align-items-center gap-3">

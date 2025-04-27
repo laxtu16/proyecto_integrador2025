@@ -1,0 +1,29 @@
+.contacto-info {
+  background-color: rgba(255, 255, 255, 0.7);
+  /* Blanco translúcido */
+  backdrop-filter: blur(8px);
+  /* (opcional) efecto de desenfoque detrás */
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.contacto-infor {
+  background-color: rgba(255, 255, 255, 0.7);
+  /* Blanco translúcido */
+  backdrop-filter: blur(8px);
+  /* Efecto glass */
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.contacto-infor:hover {
+  background-color: rgba(255, 255, 255, 0.85);
+  /* Más sólido al pasar el mouse */
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+  /* Más sombra para resaltar */
+  transform: translateY(-5px);
+  /* Sube un poquito */
+}
