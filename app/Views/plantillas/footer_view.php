@@ -26,9 +26,6 @@
                     <li><a href="<?php echo base_url('contacto'); ?>" class="nav-link-footer"><i
                                 class="fas fa-envelope me-2"></i> Contáctanos</a>
                     </li>
-
-                    <li><a href="#ubicacion" class="nav-link-footer"><i class="fas fa-map-marker-alt me-2"></i>
-                            Ubicación</a></li>
                 </ul>
             </div>
         </div>
@@ -68,6 +65,7 @@
 <script src="<?php echo base_url('assets/js/visibilidadTarjetas.js'); ?>"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+
 </body>
 
 </html>

@@ -1,0 +1,35 @@
+.titulo-categoria {
+    font-weight: 800;
+    color: #ff5722;  /* Naranja vibrante */
+    font-size: 3rem;  /* Aumentamos el tamaño de la fuente */
+    text-transform: uppercase;
+    letter-spacing: 3px;  /* Espaciado más amplio entre letras */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);  /* Sombra sutil para dar profundidad */
+    animation: cambiarColor 2s infinite, escalar 2s infinite;  /* Animaciones continuas */
+}
+
+/* Animación para el cambio de color */
+@keyframes cambiarColor {
+    0% {
+        color: #ff5722;  /* Naranja vibrante */
+    }
+    50% {
+        color: #ff9800;  /* Naranja más brillante */
+    }
+    100% {
+        color: #ff5722;  /* Regresa al color original */
+    }
+}
+
+/* Animación para el efecto de escala */
+@keyframes escalar {
+    0% {
+        transform: scale(1);  /* Tamaño original */
+    }
+    50% {
+        transform: scale(1.1);  /* Aumenta el tamaño */
+    }
+    100% {
+        transform: scale(1);  /* Vuelve al tamaño original */
+    }
+}

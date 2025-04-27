@@ -25,6 +25,11 @@ class Home extends BaseController
         return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("contenido\comercio.php").view("plantillas/footer_view.php");
     }
 
+    public function producto(): string {
+        $data['titulo'] = "Productos";
+        return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("contenido\productos_view.php").view("plantillas/footer_view.php");
+    }
+
     public function terminosYcondiciones(): string {
         $data['titulo'] = "terminos de Uso";
         return view('plantillas/header_view.php', $data).view("plantillas/nav_view.php").view("contenido/terminosyusos.php").view("plantillas/footer_view.php");

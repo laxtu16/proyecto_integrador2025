@@ -1,0 +1,8 @@
+CRITICAL - 2025-04-27 16:40:46 --> ErrorException: Cannot redeclare App\Controllers\Home::comercializacion()
+[Method: GET, Route: Ayuda]
+in APPPATH\Controllers\Home.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-04-27 16:40:54 --> ErrorException: Cannot redeclare App\Controllers\Home::comercializacion()
+[Method: GET, Route: Ayuda]
+in APPPATH\Controllers\Home.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

@@ -13,6 +13,6 @@ $routes->get('contacto', 'Home::contactos');
 
 $routes->get('comercializacion', 'Home::comercializacion');
 
+$routes->get('productos', 'Home::producto');
+
 $routes->get('Ayuda', 'Home::terminosYcondiciones');
-
-
