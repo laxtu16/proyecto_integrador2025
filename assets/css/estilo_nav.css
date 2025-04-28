@@ -37,11 +37,11 @@ nav.navbar {
 @media (max-width: 991.98px) {
   .navbar-nav {
     text-align: center;
+    flex-direction: column; /* Hacer que los links se apilen en vertical */
     gap: 15px;
   }
 
   .navbar-nav .nav-link {
     font-size: 18px;
   }
-
 }

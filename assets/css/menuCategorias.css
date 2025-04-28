@@ -1,0 +1,49 @@
+.layout {
+    display: flex;
+}
+
+/* Aside - Menú de categorías */
+.menu-categorias {
+    width: 250px;
+    background-color: #1a1a1a;
+    padding: 20px;
+    min-height: 100vh; /* Para que tenga toda la altura */
+}
+
+/* Estilos del contenido principal */
+.contenido-principal {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+/* Opcional: estilos del menú */
+.menu-categorias h2 {
+    color: #ff5722;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.menu-categorias ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu-categorias ul li {
+    margin-bottom: 15px;
+}
+
+.menu-categorias ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: block;
+    padding: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.menu-categorias ul li a:hover {
+    background-color: #ff9800;
+    color: #000;
+}

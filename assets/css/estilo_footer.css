@@ -1,11 +1,10 @@
 footer {
-    background-color: #000000; /* Un gris claro de fondo */
+    background-color: #000000; /* Fondo negro */
     padding: 20px;
     text-align: center;
-    border-top: 1px solid #050005; /* Línea superior sutil */
-    width: 100%; /* Asegura que el footer ocupe todo el ancho */
-    margin: 0; /* Elimina márgenes innecesarios */
-   
+    border-top: 1px solid #050005;
+    width: 100%;
+    margin: 0;
 }
 
 .contacto-info, .formulario-contacto {
@@ -13,7 +12,7 @@ footer {
 }
 
 .form-group {
-    margin-bottom: 0px;
+    margin-bottom: 15px; /* Un pequeño espacio entre inputs */
     text-align: center;
 }
 
@@ -21,6 +20,7 @@ label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
+    color: white; /* Color de texto más visible */
 }
 
 input[type="text"],
@@ -29,19 +29,38 @@ input[type="tel"],
 textarea {
     display: block;
     width: 100%;
-    padding: 8px;
+    max-width: 500px; /* Evita inputs demasiado anchos en pantallas grandes */
+    margin: 0 auto; /* Centra los inputs */
+    padding: 10px;
     border: 1px solid #ced4da;
     border-radius: 4px;
     box-sizing: border-box;
 }
 
 button[type="submit"] {
-    background-color: #007bff; /* Azul primario de Bootstrap */
+    background-color: #007bff;
     color: white;
-    padding: 10px 15px;
+    padding: 10px 20px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    font-weight: bold;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.fa-facebook,
+.fa-instagram,
+.fa-whatsapp,
+.fa-youtube,
+.fa-twitter,
+.fa-linkedin {
+    font-size: 2rem;
+    margin: 0 10px; /* Espacio entre íconos */
+    color: white; /* Color normal de los íconos */
+    transition: color 0.3s, transform 0.3s;
 }
 
 .fa-facebook:hover,
@@ -51,17 +70,47 @@ button[type="submit"] {
 .fa-twitter:hover,
 .fa-linkedin:hover {
     color: rgb(12, 39, 187);
-    font-size: 2.5rem;
-}
-
-button[type="submit"]:hover {
-    background-color: #0056b3;
+    transform: scale(1.2); /* Efecto de agrandado al pasar el mouse */
 }
 
 .copyright {
     font-size: 0.8em;
-    color: #000000; /* Gris secundario */
+    color: #888; /* Gris más claro para diferenciarlo */
     margin-top: 20px;
 }
-   
 
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 768px) {
+    .formulario-contacto, 
+    .contacto-info {
+        padding: 0 10px;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    textarea {
+        max-width: 100%; /* Que ocupe todo el ancho en móviles */
+    }
+
+    .fa-facebook,
+    .fa-instagram,
+    .fa-whatsapp,
+    .fa-youtube,
+    .fa-twitter,
+    .fa-linkedin {
+        font-size: 1.8rem; /* Íconos un poquito más chicos */
+        margin: 0 5px;
+    }
+}
+
+@media (max-width: 480px) {
+    .formulario-contacto, 
+    .contacto-info {
+        padding: 0 5px;
+    }
+
+    button[type="submit"] {
+        width: 100%; /* Botón full ancho en celulares muy chicos */
+    }
+}

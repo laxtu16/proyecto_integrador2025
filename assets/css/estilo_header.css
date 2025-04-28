@@ -53,7 +53,17 @@ header {
   color: white;
 }
 
+@media (max-width: 1200px) {
+  /* En pantallas medianas (tabletas, laptops pequeñas) ajustamos el espacio entre los elementos */
+  .container {
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+  }
+}
+
 @media (max-width: 700px) {
+  /* En pantallas más pequeñas (móviles) cambiamos el diseño */
   .container {
     flex-direction: column;
     align-items: center;
@@ -65,13 +75,7 @@ header {
   }
 
   .nombre-empresa1 {
-    font-size: 3rem;
-  }
-
-  form {
-    width: 100%;
-    margin-top: 10px;
-    justify-content: center;
+    font-size: 2.5rem; /* Reducir tamaño del nombre */
   }
 
   .acciones {

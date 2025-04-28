@@ -54,3 +54,89 @@
     color: rgb(255, 255, 255);
     border-radius: 10px;  
 }
+
+/* Media Queries para hacerlo responsive */
+@media (max-width: 1024px) {
+    .titulo {
+        font-size: 50px; /* Reducir el tamaño del título en pantallas más pequeñas */
+    }
+
+    .icon {
+        font-size: 50px; /* Reducir el tamaño del icono */
+    }
+
+    .card1 {
+        padding: 15px; /* Reducir el padding para pantallas más pequeñas */
+    }
+
+    .card1 h4 {
+        font-size: 18px; /* Ajustar el tamaño del texto en los cards */
+    }
+
+    .card1 p {
+        font-size: 14px; /* Reducir el tamaño de fuente del párrafo */
+    }
+
+    .info {
+        font-size: 18px; /* Reducir el tamaño de la fuente en el bloque de info */
+    }
+}
+
+@media (max-width: 768px) {
+    /* Para dispositivos móviles */
+    .titulo {
+        font-size: 40px; /* Más pequeño en pantallas móviles */
+        padding: 8px; /* Reducir padding */
+    }
+
+    .icon {
+        font-size: 45px; /* Icono más pequeño en pantallas móviles */
+    }
+
+    .card1 {
+        padding: 10px; /* Menor padding para ajustar el card */
+        border: 3px solid #000; /* Reducir el borde en pantallas más pequeñas */
+    }
+
+    .card1 h4 {
+        font-size: 16px; /* Ajustar el tamaño del texto */
+    }
+
+    .card1 p {
+        font-size: 13px; /* Reducir aún más el tamaño de fuente del párrafo */
+    }
+
+    .info {
+        font-size: 16px; /* Hacer el texto más pequeño */
+        margin-bottom: 20px; /* Reducir margen */
+    }
+}
+
+@media (max-width: 480px) {
+    /* Para dispositivos con pantallas muy pequeñas */
+    .titulo {
+        font-size: 30px; /* Aún más pequeño */
+        padding: 6px; /* Reducir padding */
+    }
+
+    .icon {
+        font-size: 40px; /* Icono más pequeño */
+    }
+
+    .card1 {
+        padding: 8px; /* Reducir padding */
+    }
+
+    .card1 h4 {
+        font-size: 14px; /* Ajuste del tamaño del texto */
+    }
+
+    .card1 p {
+        font-size: 12px; /* Hacer más pequeño el párrafo */
+    }
+
+    .info {
+        font-size: 14px; /* Reducir aún más el tamaño del texto */
+        margin-bottom: 15px; /* Reducir margen inferior */
+    }
+}

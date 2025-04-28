@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="assets/css/cartelPromocion.css">
     <link rel="stylesheet" href="assets/css/infoContecto.css">
     <link rel="stylesheet" href="assets/css/estiloProductos.css">
+    <link rel="stylesheet" href="assets/css/menuCategorias.css">
 
 
 </head>
@@ -52,7 +53,7 @@
             </form>
 
             <div class="acciones d-flex align-items-center gap-3">
-                <a class="favoritos" href="#"><i class="fas fa-heart"></i></a>
+
                 <a class="carro-de-compras" href="#"><i class="fas fa-cart-shopping"></i></a>
                 <a class="usuario" href="#"><i class="fas fa-circle-user"></i></a>
             </div>
