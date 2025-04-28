@@ -33,10 +33,6 @@ nav.navbar {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.dropdown-menu .dropdown-item:hover {
-  background-color: blueviolet;
-  color: white;
-}
 
 @media (max-width: 991.98px) {
   .navbar-nav {
@@ -48,7 +44,4 @@ nav.navbar {
     font-size: 18px;
   }
 
-  .navbar-nav .dropdown-menu {
-    width: 100%;
-  }
 }

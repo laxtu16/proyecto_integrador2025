@@ -179,6 +179,24 @@
         </div>
     </div>
 </div>
+<aside class="sidebar-categorias">
+    <div class="categorias-box">
+        <h2 class="categorias-titulo">Categoría:</h2>
+        <ul class="categorias-lista">
+            <li><a href="#">Terror (320)</a></li>
+            <li><a href="#">Aventura (280)</a></li>
+            <li><a href="#">Carrera (150)</a></li>
+            <li><a href="#">Acción (540)</a></li>
+            <li><a href="#">Estrategia (210)</a></li>
+            <li><a href="#">Simulación (180)</a></li>
+            <li><a href="#">RPG (400)</a></li>
+            <li><a href="#">Deportes (300)</a></li>
+            <li><a href="#">Puzzle (120)</a></li>
+        </ul>
+        <a href="#" class="categorias-mas">Mostrar más</a>
+    </div>
+</aside>
+
 //
 <div class="container my-5 d-flex justify-content-center align-items-center">
     <h1 class="text-center mb-4 titulo-categoria">Juegos de Terror</h1>

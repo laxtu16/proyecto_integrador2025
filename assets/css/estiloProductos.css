@@ -8,6 +8,72 @@
     animation: cambiarColor 2s infinite, escalar 2s infinite;  /* Animaciones continuas */
 }
 
+
+.sidebar-categorias {
+  width: 250px;
+  padding: 20px;
+  background-color: transparent; /* Fondo general transparente */
+}
+
+.categorias-box {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: rgba(0, 0, 0, 0.4); /* Un poco más sutil la transparencia */
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.categorias-titulo {
+  font-size: 30px;
+  color: #ffffff; /* Letras blancas */
+  margin-bottom: 10px;
+}
+
+.categorias-lista li {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.categorias-lista li a {
+  color: #ffffff; /* Links blancos */
+  text-decoration: none; /* Sin subrayado */
+}
+
+.categorias-lista li a:hover {
+  color: #2968c8; /* Color azul en hover */
+  text-decoration: underline; /* Opcional: subrayado sólo cuando se pasa el mouse */
+}
+
+.categorias-mas {
+  display: block;
+  font-size: 14px;
+  color: #2968c8;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.categorias-mas:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+/* RESPONSIVE para celulares */
+@media (max-width: 768px) {
+  .sidebar-categorias {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .categorias-box {
+    text-align: center;
+  }
+
+  .categorias-lista li {
+    font-size: 20px;
+  }
+}
+
+
+
 /* Animación para el cambio de color */
 @keyframes cambiarColor {
     0% {

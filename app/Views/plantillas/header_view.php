@@ -11,7 +11,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="assets/css/estilo_comercio.css">
+    <link rel="stylesheet" href="assets/css/estilo_terminoyusos.css">
+    <link rel="stylesheet" href="assets/css/estilo_QuienesSomos.css">
 
     <link rel="stylesheet" href="assets/css/estilo_contacto.css">
     <link rel="stylesheet" href="assets/css/estilo_footer.css">
@@ -24,6 +30,7 @@
     <link rel="stylesheet" href="assets/css/cartelPromocion.css">
     <link rel="stylesheet" href="assets/css/infoContecto.css">
     <link rel="stylesheet" href="assets/css/estiloProductos.css">
+
 
 </head>
 

@@ -43,13 +43,13 @@ header {
 .acciones {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 20px;
 }
 
 .favoritos i,
 .carro-de-compras i,
 .usuario i {
-  font-size: 22px;
+  font-size: 24px;
   color: white;
 }
 
@@ -82,6 +82,6 @@ header {
   .favoritos i,
   .carro-de-compras i,
   .usuario i {
-    font-size: 22px;
+    font-size: 24px;
   }
 }
