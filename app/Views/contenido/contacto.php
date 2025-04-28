@@ -7,15 +7,16 @@
                     contigo a la brevedad.</p>
                 <form action="/enviar-soporte" method="POST">
                     <div class="form-group mb-3 text-start">
-                        <label for="nombre" class="form-label fw-semibold">Nombre Completo:</label>
-                        <input type="text" id="nombre" name="nombre" class="form-control" required>
+                        <label for="nombre" class="form-label fw-semibold" style="color: black">Nombre Completo:</label>
+                        <input type=" text" id="nombre" name="nombre" class="form-control" required>
                     </div>
                     <div class="form-group mb-3 text-start">
-                        <label for="email" class="form-label fw-semibold">Correo Electrónico:</label>
+                        <label for="email" class="form-label fw-semibold" style="color: black">Correo
+                            Electrónico:</label>
                         <input type="email" id="email" name="email" class="form-control" required>
                     </div>
                     <div class="form-group mb-3 text-start">
-                        <label for="asunto" class="form-label fw-semibold">Asunto:</label>
+                        <label for="asunto" class="form-label fw-semibold" style="color: black">Asunto:</label>
                         <select id="asunto" name="asunto" class="form-select" required>
                             <option value="">Selecciona un asunto</option>
                             <option value="problema_compra">Problema con una compra</option>
@@ -27,13 +28,15 @@
                         </select>
                     </div>
                     <div class="form-group mb-3 text-start">
-                        <label for="orden_id" class="form-label fw-semibold">Número de Orden (opcional):</label>
+                        <label for="orden_id" class="form-label fw-semibold" style="color: black">Número de Orden
+                            (opcional):</label>
                         <input type="text" id="orden_id" name="orden_id" class="form-control">
                         <small class="form-text text-muted">Si tu consulta está relacionada con una compra, incluye el
                             número de orden.</small>
                     </div>
                     <div class="form-group mb-3 text-start">
-                        <label for="plataforma" class="form-label fw-semibold">Plataforma (opcional):</label>
+                        <label for="plataforma" class="form-label fw-semibold" style="color: black">Plataforma
+                            (opcional):</label>
                         <select id="plataforma" name="plataforma" class="form-select">
                             <option value="">Selecciona la plataforma</option>
                             <option value="pc">PC</option>
@@ -45,7 +48,8 @@
                         </select>
                     </div>
                     <div class="form-group mb-4 text-start">
-                        <label for="mensaje" class="form-label fw-semibold">Descripción del Problema:</label>
+                        <label for="mensaje" class="form-label fw-semibold" style="color: black">Descripción del
+                            Problema:</label>
                         <textarea id="mensaje" name="mensaje" class="form-control" rows="5" required></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary w-100 fw-bold">Enviar Mensaje a Soporte</button>
