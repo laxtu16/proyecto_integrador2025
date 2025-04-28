@@ -1,12 +1,12 @@
 nav.navbar {
-  background-color: black; /* Ahora es negro igual que el header */
+  background-color: black; 
   border-bottom: 3px solid #000000;
   padding: 12px 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .navbar-nav .nav-link {
-  color: rgb(0, 0, 0); /* Texto blanco como el header */
+  color: rgb(0, 0, 0); 
   font-weight: 700;
   padding: 8px 16px;
   transition: color 0.3s ease, transform 0.3s ease;
@@ -37,7 +37,7 @@ nav.navbar {
 @media (max-width: 991.98px) {
   .navbar-nav {
     text-align: center;
-    flex-direction: column; /* Hacer que los links se apilen en vertical */
+    flex-direction: column;
     gap: 15px;
   }
 

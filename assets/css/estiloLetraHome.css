@@ -1,31 +1,16 @@
 h1.productos-populares {
-        font-family: 'Impact', sans-serif;
-        font-size: 70px;
-        /* Tamaño grande */
-        color: #FF4500;
-        /* Naranja brillante */
-        text-shadow:
-            2px 2px 0px #000,
-            /* Borde negro en la parte inferior y derecha */
-            -2px -2px 0px #000,
-            /* Borde negro en la parte superior y izquierda */
-            2px -2px 0px #000,
-            /* Borde negro en la parte superior y derecha */
-            -2px 2px 0px #000;
-        /* Borde negro en la parte inferior y izquierda */
-        font-weight: bold;
-        text-align: center;
-        /* Centrado */
-        letter-spacing: 2px;
-        /* Un pequeño espaciado entre letras */
-    }
+  font-family: "Impact", sans-serif;
+  font-size: 70px;
+  color: #ff4500;
+  text-shadow: 2px 2px 0px #000, -2px -2px 0px #000, 2px -2px 0px #000,
+    -2px 2px 0px #000;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 2px;
+}
 
-    /* Efecto hover para interacción */
-    h1.productos-populares:hover {
-        color: #FF6347;
-        /* Cambia el color a un tono más cálido al pasar el cursor */
-        transform: scale(1.05);
-        /* Aumenta ligeramente el tamaño al pasar el cursor */
-        transition: all 0.3s ease-in-out;
-        /* Transición suave */
-    }
+h1.productos-populares:hover {
+  color: #ff6347;
+  transform: scale(1.05);
+  transition: all 0.3s ease-in-out;
+}

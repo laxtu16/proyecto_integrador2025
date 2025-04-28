@@ -1,4 +1,4 @@
-/* Título principal */
+
 .section-title {
     font-size: 32px;
     font-weight: bold;
@@ -23,7 +23,7 @@
 }
 
 
-/* Contenedor de contenido con scroll */
+
 .scrollspy-example-2 {
     max-height: 70vh;
     overflow-y: auto;
@@ -43,7 +43,7 @@
 }
 
 
-/* Responsive */
+
 @media (max-width: 768px) {
     .scrollspy-example-2 {
         max-height: none;

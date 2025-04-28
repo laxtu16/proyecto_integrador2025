@@ -36,7 +36,7 @@ header {
   margin: 0;
   font-size: 3rem;
   color: rgba(151, 151, 151, 0.644);
-  font-family: "Orbitron", sans-serif; /* Aplica la fuente Orbitron */
+  font-family: "Orbitron", sans-serif; 
   font-weight: 400;
 }
 
@@ -54,7 +54,7 @@ header {
 }
 
 @media (max-width: 1200px) {
-  /* En pantallas medianas (tabletas, laptops pequeñas) ajustamos el espacio entre los elementos */
+  
   .container {
     flex-direction: row;
     justify-content: space-between;
@@ -63,7 +63,7 @@ header {
 }
 
 @media (max-width: 700px) {
-  /* En pantallas más pequeñas (móviles) cambiamos el diseño */
+
   .container {
     flex-direction: column;
     align-items: center;
@@ -75,7 +75,7 @@ header {
   }
 
   .nombre-empresa1 {
-    font-size: 2.5rem; /* Reducir tamaño del nombre */
+    font-size: 2.5rem; 
   }
 
   .acciones {

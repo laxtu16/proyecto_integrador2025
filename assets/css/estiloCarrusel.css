@@ -8,17 +8,17 @@
 }
 
 .carousel-inner {
-  z-index: 1060; /* Asegura que el carrusel esté por encima de los carteles */
+  z-index: 1060; 
 }
 
-/* Responsive: tablets */
+
 @media (max-width: 768px) {
   .carousel-inner {
     max-height: 300px;
   }
 }
 
-/* Responsive: celulares */
+
 @media (max-width: 480px) {
   .carousel-inner {
     max-height: 200px;

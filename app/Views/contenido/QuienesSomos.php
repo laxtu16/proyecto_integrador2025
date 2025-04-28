@@ -1,4 +1,3 @@
-<!-- Sección ¿Quiénes somos? -->
 <div class="container py-5">
     <div class="col">
         <h1 class="section-title text-center fw-bold mb-4">¿Quiénes Somos?</h1>
@@ -27,7 +26,7 @@
     </div>
 </div>
 
-<!-- Sección Historia - Visión - Valores -->
+
 <div class="container py-5">
     <div class="row g-5 align-items-stretch">
         <div class="col-lg-4 d-flex flex-column">
@@ -80,11 +79,10 @@
 </div>
 
 
-<!-- Sección Dónde encontrarnos -->
+
 <div class="container py-5">
     <div class="row align-items-center g-5">
 
-        <!-- Columna de texto -->
         <div class="col-md-6">
             <h3 class="info mb-4 text-center text-md-start  fw-bold " style="color:rgb(4, 123, 250);">
                 <i class="fas fa-map-marker-alt"></i> Dónde Encontrarnos

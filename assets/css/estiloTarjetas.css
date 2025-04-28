@@ -4,23 +4,23 @@
     flex-direction: column;
     background-color: #9340c4;
     color: #ffffff;
-    opacity: 0; /* Inicialmente, las tarjetas son invisibles */
-    transform: translateY(30px); /* Desplazamos la tarjeta hacia abajo para crear el efecto de "emergencia" */
-    transition: transform 0.5s ease-out, opacity 0.5s ease-out, box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out; /* Transición suave para transform, opacidad y sombra */
+    opacity: 0; 
+    transform: translateY(30px); 
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out, box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
 
 .card.visible {
     opacity: 1;
-    transform: translateY(0); /* Al entrar en la vista, la tarjeta "emerge" */
+    transform: translateY(0); 
 }
 
 .card:hover {
-    transform: translateY(-20px) scale(1.05); /* Eleva más la tarjeta y la hace ligeramente más grande */
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3); /* Aumenta la sombra para un mayor efecto de profundidad */
+    transform: translateY(-20px) scale(1.05); 
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3); 
 }
 
 .card-img-top {
-    height: 250px; /* Imágenes más grandes */
+    height: 250px;
     object-fit: cover;
 }
 
@@ -28,16 +28,16 @@
     flex-grow: 1;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* Texto arriba, botón abajo */
+    justify-content: space-between;
     padding: 10px;
-    text-align: center; /* Centra el contenido horizontalmente */
+    text-align: center;
 }
 
 .card-title, .card-text {
-    margin-bottom: 10px; /* Espacio entre título y texto */
+    margin-bottom: 10px; 
 }
 
 .btn-primary {
-    margin-top: auto; /* Empuja el botón hacia el final */
-    align-self: center; /* Centra el botón */
+    margin-top: auto; 
+    align-self: center; 
 }

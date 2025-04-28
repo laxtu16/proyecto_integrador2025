@@ -17,7 +17,7 @@
 
 
             <div class=" row g-4 justify-content-center">
-                <!-- Fila 1 -->
+
                 <div class="col-lg-2 col-md-4">
                     <div class="card">
                         <img src="https://products.eneba.games/resized-products/6M1qP76B-j6vdX0T4bFCHgJeX99MaKBpXFxbpif1MqY_350x200_1x-0.jpeg"
@@ -106,7 +106,7 @@
             </div>
 
             <div class="row g-4 justify-content-center">
-                <!-- Fila 2 -->
+
                 <div class="col-lg-2 col-md-4">
                     <div class="card">
                         <img src="https://products.eneba.games/resized-products/Vepg9jgteWQ_RP8NTPvu6Ne4WSzgSHAUFYSoQnR64MQ_350x200_1x-0.jpg"
@@ -200,7 +200,7 @@
 
 
             <div class=" row g-4 justify-content-center">
-                <!-- Fila 1 -->
+
                 <div class="col-lg-2 col-md-4">
                     <div class="card">
                         <img src="https://products.eneba.games/resized-products/KeYuUgg_350x200_1x-0.jpg"
@@ -289,7 +289,7 @@
             </div>
 
             <div class="row g-4 justify-content-center">
-                <!-- Fila 2 -->
+
                 <div class="col-lg-2 col-md-4">
                     <div class="card">
                         <img src="https://products.eneba.games/resized-products/Sfv7d5s_tD5QuBlhJzAoSSeb0BVbjHWJz_Hd8CKsWtg_350x200_1x-0.jpeg"
@@ -377,14 +377,14 @@
             </div>
         </div>
 
-        <!-- desde aca se copia -->
+
 
         <div class="container my-5 d-flex justify-content-center align-items-center">
             <h1 class="text-center mb-4 titulo-categoria">Juegos de Carreras</h1>
 
 
             <div class=" row g-4 justify-content-center">
-                <!-- Fila 1 -->
+
                 <div class="col-lg-2 col-md-4">
                     <div class="card">
                         <img src="https://products.eneba.games/resized-products/4E7_ESo1Km0ecGRGyKA_LUdeUaf40rqvrMhtLidgVwY_350x200_1x-0.png"
@@ -473,7 +473,7 @@
             </div>
 
             <div class="row g-4 justify-content-center">
-                <!-- Fila 2 -->
+
                 <div class="col-lg-2 col-md-4">
                     <div class="card">
                         <img src="https://products.eneba.games/resized-products/lHK6OGnmM6trgxUGmuK3O9JmGsFolSCrOXkHOnwKBB4_350x200_1x-0.jpg"

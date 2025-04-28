@@ -1,30 +1,29 @@
 .titulo-categoria {
-    font-weight: 800;
-    color: #ff5722;  /* Naranja vibrante */
-    font-size: 3rem;  /* Aumentamos el tamaño de la fuente */
-    text-transform: uppercase;
-    letter-spacing: 3px;  /* Espaciado más amplio entre letras */
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);  /* Sombra sutil para dar profundidad */
-    animation: cambiarColor 2s infinite, escalar 2s infinite;  /* Animaciones continuas */
+  font-weight: 800;
+  color: #ff5722;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  animation: cambiarColor 2s infinite, escalar 2s infinite;
 }
-
 
 .sidebar-categorias {
   width: 250px;
   padding: 20px;
-  background-color: transparent; /* Fondo general transparente */
+  background-color: transparent;
 }
 
 .categorias-box {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background: rgba(0, 0, 0, 0.4); /* Un poco más sutil la transparencia */
+  background: rgba(0, 0, 0, 0.4);
   border-radius: 10px;
   padding: 15px;
 }
 
 .categorias-titulo {
   font-size: 30px;
-  color: #ffffff; /* Letras blancas */
+  color: #ffffff;
   margin-bottom: 10px;
 }
 
@@ -34,13 +33,13 @@
 }
 
 .categorias-lista li a {
-  color: #ffffff; /* Links blancos */
-  text-decoration: none; /* Sin subrayado */
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .categorias-lista li a:hover {
-  color: #2968c8; /* Color azul en hover */
-  text-decoration: underline; /* Opcional: subrayado sólo cuando se pasa el mouse */
+  color: #2968c8;
+  text-decoration: underline;
 }
 
 .categorias-mas {
@@ -56,7 +55,6 @@
   text-decoration: underline;
 }
 
-/* RESPONSIVE para celulares */
 @media (max-width: 768px) {
   .sidebar-categorias {
     width: 100%;
@@ -72,30 +70,26 @@
   }
 }
 
-
-
-/* Animación para el cambio de color */
 @keyframes cambiarColor {
-    0% {
-        color: #ff5722;  /* Naranja vibrante */
-    }
-    50% {
-        color: #ff9800;  /* Naranja más brillante */
-    }
-    100% {
-        color: #ff5722;  /* Regresa al color original */
-    }
+  0% {
+    color: #ff5722;
+  }
+  50% {
+    color: #ff9800;
+  }
+  100% {
+    color: #ff5722;
+  }
 }
 
-/* Animación para el efecto de escala */
 @keyframes escalar {
-    0% {
-        transform: scale(1);  /* Tamaño original */
-    }
-    50% {
-        transform: scale(1.1);  /* Aumenta el tamaño */
-    }
-    100% {
-        transform: scale(1);  /* Vuelve al tamaño original */
-    }
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
