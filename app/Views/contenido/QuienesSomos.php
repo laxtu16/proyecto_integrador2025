@@ -97,6 +97,9 @@
                 <p class="text-center text-md-start">
                     <strong>Horarios:</strong> Lunes a Viernes de 9:00 a 18:00 hs.
                 </p>
+                <p class="text-center text-md-start">
+                    <strong>Propetarios:</strong> Aquino Ponce Leonardo y Azcona brian .
+                </p>
             </div>
 
         </div>
